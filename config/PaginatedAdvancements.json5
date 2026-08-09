@@ -1,0 +1,12 @@
+{
+	"PinningEnabled": true,
+	"ShowAdvancementIDInDebugTooltip": false,
+	"ShowDebugInfo": "NEVER",
+	"MaxCriterionEntries": 2,
+	"FadeOutBackgroundOnAdvancementHover": false,
+	"SaveLastSelectedTab": true,
+	"PinnedTabs": [],
+	"LastSelectedTab": "cobblemon:root",
+	"SpacingBetweenHorizontalTabs": 4,
+	"SpacingBetweenPinnedTabs": 2
+}

@@ -1,0 +1,33 @@
+# Runtime/generated
+.fabric/
+.mixin.out/
+crash-reports/
+logs/
+debug/
+downloads/
+saves/
+showdown/
+stackdeobf_mappings/
+xaero/
+XaeroWaypoints_BACKUP*/
+fancymenu_data/
+data/
+
+# Local player/runtime state
+options.txt
+servers.dat
+servers.dat_old
+defaultoptions.journal.json
+
+# Visual packs - not source controlled
+shaderpacks/
+resourcepacks/
+
+# Mod binaries - record separately, don't store jars
+mods/
+*.jar
+
+# Backups
+*.backup
+*.backup-*
+*.before-*

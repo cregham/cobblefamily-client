@@ -1,0 +1,9 @@
+{
+  "displayTimerBackground": true,
+  "objectivesForceOpen": false,
+  "objectivesAutoHide": 15,
+  "objectivesInactivityShows": 15,
+  "objectivesAnimationTime": 10,
+  "objectivesUsePercentage": false,
+  "objectivesPlacementPercentage": 0.5
+}
