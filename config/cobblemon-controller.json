@@ -24,7 +24,7 @@
   "hideOverlay": false,
   "blockMidnightControlsInSummary": true,
   "selectedControllerIndex": -1,
-  "outOfFocusInput": false,
+  "outOfFocusInput": true,
   "buttonBattleNearest": 3,
   "buttonToggleTargeting": -1,
   "keyBattleNearest": 70,

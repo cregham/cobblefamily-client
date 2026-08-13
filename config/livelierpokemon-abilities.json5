@@ -101,7 +101,7 @@
 	// Spawn with 2 extra absorption hearts.
 	"ICE_FACE": true,
 	// Nearby entities glow.
-	"ILLUMINATE": true,
+	"ILLUMINATE": false,
 	"illuminate_radius": 16,
 	// Deals the same damage back to the attacker on death.
 	"INNARDS_OUT": true,

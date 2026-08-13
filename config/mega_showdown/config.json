@@ -17,7 +17,7 @@
   "outSideUltraBurst": true,
   "teraHats": true,
   "legacyTeraEffect": false,
-  "showBattleHUD": false,
+  "showBattleHUD": true,
   "showStatChanges": true,
   "showMoveTooltips": false,
   "debugMode": false

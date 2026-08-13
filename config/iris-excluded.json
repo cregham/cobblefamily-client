@@ -1,1 +1,9 @@
-{"excluded":["put:valuesHere"]}
+{
+  "excluded": [
+    "cobblemon:particle_add",
+    "cobblemon:particle_cutout",
+    "minecraft:rendertype_entity_cutout",
+    "minecraft:rendertype_entity_translucent",
+    "minecraft:rendertype_entity_translucent_emissive"
+  ]
+}

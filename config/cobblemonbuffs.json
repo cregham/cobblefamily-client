@@ -1,0 +1,17 @@
+{
+  "maxActiveBuffs": 8,
+  "refreshIntervalTicks": 100,
+  "showChatNotifications": true,
+  "enabledTypes": {},
+  "friendshipMaxThreshold": 255,
+  "enableAuraParticles": true,
+  "levelMaxPoints": 60,
+  "friendshipMaxPoints": 40,
+  "t1Threshold": 10,
+  "t2Threshold": 35,
+  "t3Threshold": 75,
+  "conditionalCheckTicks": 20,
+  "tierOverrides": {},
+  "enableTier2": true,
+  "enableTier3": true
+}

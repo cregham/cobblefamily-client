@@ -1,0 +1,26 @@
+{
+    "fr.harmex.cobbledollars.common.client.gui.screen.ShopScreen": {
+        "ignore": true
+    },
+    "fr.harmex.cobbledollars.common.client.gui.screen.BankScreen": {
+        "ignore": true
+    },
+    "fr.harmex.cobbledollars.common.world.inventory.ShopMenu": {
+        "ignore": true
+    },
+    "fr.harmex.cobbledollars.common.world.inventory.BankMenu": {
+        "ignore": true
+    },
+    "io.wispforest.accessories.client.gui.AccessoriesExperimentalScreen": {
+        "ignore": true
+    },
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": {
+        "ignore": true
+    },
+    "io.wispforest.accessories.client.gui.AccessoriesScreenBase": {
+        "ignore": true
+    },
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": {
+        "ignore": true
+    }
+}

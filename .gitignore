@@ -12,12 +12,18 @@ xaero/
 XaeroWaypoints_BACKUP*/
 fancymenu_data/
 data/
+catchrate-logs/
+particular_cache/
+screenshots/
+command_history.txt
+usercache.json
 
 # Local player/runtime state
 options.txt
 servers.dat
 servers.dat_old
 defaultoptions.journal.json
+config/inventoryprofilesnext/*&*/
 
 # Visual packs - not source controlled
 shaderpacks/
