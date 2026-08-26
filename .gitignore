@@ -24,6 +24,8 @@ servers.dat
 servers.dat_old
 defaultoptions.journal.json
 config/inventoryprofilesnext/*&*/
+!minecraft/options.txt
+!minecraft/servers.dat
 
 # Client settings that must be reproducible
 !config/defaultoptions/options.txt
