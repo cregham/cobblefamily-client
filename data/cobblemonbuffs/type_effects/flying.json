@@ -1,0 +1,28 @@
+{
+  "t1": {
+    "effects": [
+      { "effectId": "minecraft:speed", "amplifier": 0, "durationTicks": 60 }
+    ],
+    "triggerType": "ON_HIT_RECEIVED",
+    "cooldownTicks": 300,
+    "triggerDescription": "When Hit"
+  },
+  "t2": {
+    "effects": [
+      { "effectId": "minecraft:speed", "amplifier": 0, "durationTicks": 80 },
+      { "effectId": "minecraft:jump_boost", "amplifier": 0, "durationTicks": 60 }
+    ],
+    "triggerType": "ON_HIT_RECEIVED",
+    "cooldownTicks": 240,
+    "triggerDescription": "When Hit"
+  },
+  "t3": {
+    "effects": [
+      { "effectId": "minecraft:speed", "amplifier": 1, "durationTicks": 100 },
+      { "effectId": "minecraft:jump_boost", "amplifier": 0, "durationTicks": 80 }
+    ],
+    "triggerType": "ON_HIT_RECEIVED",
+    "cooldownTicks": 200,
+    "triggerDescription": "When Hit"
+  }
+}
