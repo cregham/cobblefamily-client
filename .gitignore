@@ -17,6 +17,7 @@ particular_cache/
 screenshots/
 command_history.txt
 usercache.json
+cobblemon-battle-logs/
 
 # Local player/runtime state
 options.txt
