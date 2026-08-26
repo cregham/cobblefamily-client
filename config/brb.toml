@@ -9,7 +9,7 @@ enableBounce = false
 
 [instantCraft]
 showButton = true
-enabled = true
+enabled = false
 
 [alternativeRecipes]
 onHover = true

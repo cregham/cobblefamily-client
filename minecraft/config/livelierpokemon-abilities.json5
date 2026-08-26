@@ -1,0 +1,257 @@
+{
+	// Toggles server-only mode which disables certain features so players don't need to download this mod.
+	"SERVER_MODE": false,
+	// Explodes on death. Does not affect the world.
+	"AFTERMATH": true,
+	"aftermath_affects_environment": false,
+	"aftermath_explosion_radius": 2.0,
+	// Removes weather when nearby.
+	"AIR_LOCK": true,
+	// Immune to projectiles
+	"ARMOR_TAIL": true,
+	// Nearby players will take damage and wake up when trying to sleep.
+	"BAD_DREAMS": true,
+	"bad_dreams_damage": 6,
+	// Fetch thrown Pokeballs if they fail.
+	"BALL_FETCH": true,
+	"ball_fetch_radius": 10,
+	"ball_fetch_show_message": true,
+	// Nearby entities are weakened.
+	"BEADS_OF_RUIN": true,
+	// Immune to projectiles and explosions.
+	"BULLETPROOF": true,
+	// Removes weather when nearby.
+	"CLOUD_NINE": true,
+	// Chance to inflict mining fatigue when attacked.
+	"CURSED_BODY": true,
+	"cursed_body_trigger_chance": 0.3,
+	"cursed_body_duration": 240,
+	// Nearby Dark Pokemon gain Strength.
+	"DARK_AURA": true,
+	"dark_aura_radius": 16,
+	// Prevents Creepers from exploding.
+	"DAMP": true,
+	"damp_radius": 4,
+	// Grants resistance to self.
+	"DAUNTLESS_SHIELD": true,
+	// Immune to projectiles
+	"DAZZLING": true,
+	// Summon strong winds on spawn and gives nearby players Jump Boost and Slow Falling. Set duration to -1 for until switched out.
+	"DELTA_STREAM": true,
+	"delta_stream_radius": 24,
+	"delta_stream_duration_seconds": -1,
+	// Summon extremely harsh sun on spawn. Set duration to -1 for until switched out.
+	"DESOLATE_LAND": true,
+	"desolate_land_radius": 24,
+	"desolate_land_duration_seconds": -1,
+	// Spawn with 2 extra absorption hearts.
+	"DISGUISE": true,
+	// Summon rain on spawn and extinguish fire. Set duration to -1 for until switched out.
+	"DRIZZLE": true,
+	"drizzle_radius": 16,
+	"drizzle_duration_seconds": 60,
+	// Summon sun on spawn and gives nearby players Night Vision. Set duration to -1 for until switched out.
+	"DROUGHT": true,
+	"drought_radius": 16,
+	"drought_duration_seconds": 60,
+	// Chance to light attacker on fire when attacked.
+	"FLAME_BODY": true,
+	"flame_body_trigger_chance": 0.3,
+	"flame_body_duration": 60,
+	// Grants resistance to its owner.
+	"FRIEND_GUARD": true,
+	"friend_guard_friendship_threshold": 220,
+	// Immunity to all status effects.
+	"FULL_METAL_BODY": true,
+	// All nearby entities are immune to Slowness and nearby Electric Pokemon gain Strength.
+	"ELECTRIC_SURGE": true,
+	"electric_surge_show_terrain": true,
+	"electric_surge_radius": 12,
+	// Chance to inflict poison when attacked.
+	"EFFECT_SPORE": true,
+	"effect_spore_trigger_chance": 0.3,
+	"effect_spore_duration": 120,
+	// Nearby Fairy Pokemon gain Strength.
+	"FAIRY_AURA": true,
+	"fairy_aura_radius": 16,
+	// Immunity to fire and gain Strength.
+	"FLARE_BOOST": true,
+	// Immunity to fire and gain Strength.
+	"FLASH_FIRE": true,
+	// Immunity to all status effects.
+	"GOOD_AS_GOLD": true,
+	// Chance to inflict slowness when attacked.
+	"GOOEY": true,
+	"gooey_trigger_chance": 0.3,
+	"gooey_duration": 240,
+	// Periodically grows nearby crops and nearby Grass Pokemon gain Strength.
+	"GRASSY_SURGE": true,
+	"grassy_surge_show_terrain": true,
+	"grassy_surge_radius": 12,
+	// All nearby entities are immune to Slowness and nearby Electric Pokemon gain Strength.
+	"HADRON_ENGINE": true,
+	"hadron_engine_show_terrain": true,
+	"hadron_engine_radius": 12,
+	// Periodically cleanses all status effects on its owner.
+	"HEALER": true,
+	// Grants fire resistance to self.
+	"HEATPROOF": true,
+	// Grants strength to self.
+	"HUGE_POWER": true,
+	// Spawn with 2 extra absorption hearts.
+	"ICE_FACE": true,
+	// Nearby entities glow.
+	"ILLUMINATE": true,
+	"illuminate_radius": 16,
+	// Deals the same damage back to the attacker on death.
+	"INNARDS_OUT": true,
+	// Immunity to poison.
+	"IMMUNITY": true,
+	// Grants strength to self.
+	"INTREPID_SWORD": true,
+	// Inflicts damage when attacked.
+	"IRON_BARBS": true,
+	"iron_barbs_damage": 4,
+	// Immune to Slowness and Paralysis
+	"LIMBER": true,
+	// Status effects are inflicted to the attacker instead.
+	"MAGIC_BOUNCE": true,
+	// Immunity to all status effects.
+	"MAGIC_GUARD": true,
+	// Nearby items are pulled to its owner.
+	"MAGNET_PULL": true,
+	"magnet_pull_range": 6,
+	// Status effects are inflicted to the attacker instead.
+	"MIRROR_ARMOR": true,
+	// All nearby entities are immune to negative status effects and nearby Dragon Pokemon gain Weakness.
+	"MISTY_SURGE": true,
+	"misty_surge_show_terrain": true,
+	"misty_surge_radius": 12,
+	// Summon sun on spawn and gives nearby players Night Vision. Set duration to -1 for until switched out.
+	"ORICHALCUM_PULSE": true,
+	"orichalcum_pulse_radius": 16,
+	"orichalcum_pulse_duration_seconds": 60,
+	// Periodically cleanses all status effects on its owner.
+	"PASTEL_VEIL": true,
+	// Chance to inflict wither when attacked.
+	"PERISH_BODY": true,
+	"perish_body_trigger_chance": 0.3,
+	"perish_body_duration": 120,
+	// Poison heals instead.
+	"POISON_HEAL": true,
+	// Chance to inflict poison when attacked.
+	"POISON_POINT": true,
+	"poison_point_trigger_chance": 0.3,
+	"poison_point_duration": 120,
+	// Grants strength to its owner.
+	"POWER_SPOT": true,
+	"power_spot_friendship_threshold": 220,
+	// Weapons that damage this Pokemon lose more durability.
+	"PRESSURE": true,
+	"pressure_durability_loss": 3,
+	// Summon heavy rain on spawn. Set duration to -1 for until switched out.
+	"PRIMORDIAL_SEA": true,
+	"primordial_sea_radius": 24,
+	"primordial_sea_duration_seconds": -1,
+	// All nearby projectiles stop and nearby Psychic Pokemon gain Strength.
+	"PSYCHIC_SURGE": true,
+	"psychic_surge_show_terrain": true,
+	"psychic_surge_radius": 12,
+	"psychic_surge_block_radius": 6,
+	// Grants strength to self.
+	"PURE_POWER": true,
+	// Immune to projectiles
+	"QUEENLY_MAJESTY": true,
+	// Inflicts damage when attacked.
+	"ROUGH_SKIN": true,
+	"rough_skin_damage": 4,
+	// Chance to inflict blindness when attacked.
+	"SAND_SPIT": true,
+	"sand_spit_trigger_chance": 0.3,
+	"sand_spit_duration": 120,
+	// Summon sandstorm on spawn and damages nearby monsters (excluding Husk). Set duration to -1 for until switched out.
+	"SAND_STREAM": true,
+	"sand_stream_radius": 16,
+	"sand_stream_duration_seconds": 60,
+	// Periodically grows nearby crops.
+	"SEED_SOWER": true,
+	"seed_sower_radius": 16,
+	// Summon snow on spawn and freezes nearby monsters (excluding Stray). Set duration to -1 for until switched out.
+	"SNOW_WARNING": true,
+	"snow_warning_radius": 16,
+	"snow_warning_duration_seconds": 60,
+	// Chance to inflict slowness when attacked.
+	"STATIC": true,
+	"static_trigger_chance": 0.3,
+	"static_duration": 240,
+	// Spawns with slowness and weakness.
+	"SLOW_START": true,
+	"slow_start_duration": 240,
+	// Grants speed to self.
+	"SPEED_BOOST": true,
+	// Periodically cleanses all status effects on its owner.
+	"SWEET_VEIL": true,
+	// Grants dolphin's grace to self.
+	"SWIFT_SWIM": true,
+	// Grants luck to its owner.
+	"SERENE_GRACE": true,
+	"serene_grace_friendship_threshold": 220,
+	// Status effects are inflicted to the attacker instead.
+	"SYNCHRONIZE": true,
+	// Nearby entities are weakened.
+	"SWORD_OF_RUIN": true,
+	// Nearby entities are weakened.
+	"TABLET_OF_RUIN": true,
+	// Chance to inflict slowness when attacked.
+	"TANGLING_HAIR": true,
+	"tangling_hair_trigger_chance": 0.3,
+	"tangling_hair_duration": 240,
+	// Chance to inflict poison when attacked.
+	"TOXIC_DEBRIS": true,
+	"toxic_debris_trigger_chance": 1.0,
+	"toxic_debris_duration": 120,
+	// Takes the same damage from all sources.
+	"UNAWARE": true,
+	"unaware_damage": 4.0,
+	// Nearby entities are weakened.
+	"VESSEL_OF_RUIN": true,
+	// Grants haste to its owner.
+	"VICTORY_STAR": true,
+	"victory_star_friendship_threshold": 220,
+	// Immunity to fire and gain Resistance.
+	"WELL_BAKED_BODY": true,
+	// Immunity to all damage except fire.
+	"WONDER_GUARD": true,
+	// Electric Pokemon are immune to Slowness and Paralysis.
+	"ELECTRIC": true,
+	// Poison Pokemon are immune to poison.
+	"POISON": true,
+	// Steel Pokemon are immune to poison.
+	"STEEL": true,
+	// Abra randomly teleport around.
+	"ABRA": true,
+	// Drifloon will kidnap isolated villager babies and transform them into zombies after some time.
+	"DRIFLOON": true,
+	"drifloon_radius": 16,
+	"drifloon_convert_time": 400,
+	// Geodude can spawn rarely when stone is broken.
+	"GEODUDE": true,
+	"geodude_spawn_rate": 0.002,
+	// Golurk can be created using chiseled polished black tumblestone and a carved pumpkin.
+	"GOLURK": true,
+	// Kecleon turn invisible for a short time when attacked.
+	"KECLEON": true,
+	"kecleon_duration": 120,
+	// Suicune will purify nearby Zombie Villagers when holding a Golden Apple.
+	"SUICUNE": true,
+	"suicune_purify_radius": 8,
+	// Non-shiny Voltorb and Electrode will chase players and explode when close.
+	"VOLTORB": true,
+	"voltorb_affects_environment": false,
+	"voltorb_explosion_radius": 1.5,
+	"electrode_explosion_radius": 2.0,
+	// Fire types, Bonsly and Sudowoodo look for cover in the rain.
+	"AVOID_RAIN": true,
+	// Spiders flee from armadillo Pokemon.
+	"SPIDER_FLEE_ARMADILLO": true
+}

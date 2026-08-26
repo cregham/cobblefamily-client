@@ -1,0 +1,94 @@
+{
+  "addItemsToVanillaTabs": {
+    "coloredBlocks": true,
+    "combat": true,
+    "toolsAndUtilities": true,
+    "functionalBlocks": true,
+    "naturalBlocks": true,
+    "buildingBlocks": true
+  },
+  "lootTime": "1h",
+  "caught": {
+    "trackedAspects": [
+      "galarian",
+      "alola"
+    ],
+    "limits": {
+      "cobblemon:articuno": 2,
+      "cobblemon:articuno[galarian]": 2,
+      "cobblemon:zapdos": 2,
+      "cobblemon:zapdos[galarian]": 2,
+      "cobblemon:moltres": 2,
+      "cobblemon:moltres[galarian]": 2,
+      "cobblemon:mewtwo": 2,
+      "cobblemon:suicune": 2,
+      "cobblemon:entei": 2,
+      "cobblemon:raikou": 2,
+      "cobblemon:lugia": 2,
+      "cobblemon:hooh": 2,
+      "cobblemon:celebi": 2,
+      "cobblemon:regirock": 2,
+      "cobblemon:regice": 2,
+      "cobblemon:registeel": 2,
+      "cobblemon:regieleki": 2,
+      "cobblemon:regidrago": 2,
+      "cobblemon:latias": 1,
+      "cobblemon:kyogre": 2,
+      "cobblemon:groudon": 2,
+      "cobblemon:rayquaza": 2,
+      "cobblemon:deoxys": 8,
+      "cobblemon:uxie": 2,
+      "cobblemon:azelf": 2,
+      "cobblemon:mesprit": 2,
+      "cobblemon:dialga": 2,
+      "cobblemon:palkia": 2,
+      "cobblemon:giratina": 2,
+      "cobblemon:heatran": 2,
+      "cobblemon:regigigas": 2,
+      "cobblemon:cresselia": 1,
+      "cobblemon:darkrai": 1,
+      "cobblemon:manaphy": 1,
+      "cobblemon:tornadus": 1,
+      "cobblemon:landorus": 1,
+      "cobblemon:thundurus": 1,
+      "cobblemon:enamorus": 1,
+      "cobblemon:tapukoko": 1,
+      "cobblemon:tapulele": 1,
+      "cobblemon:tapubulu": 1,
+      "cobblemon:tapufini": 1,
+      "cobblemon:glastrier": 1,
+      "cobblemon:spectrier": 1,
+      "cobblemon:zygarde": 2
+    }
+  },
+  "enigmaFragment": {
+    "enabled": true,
+    "limit": 32
+  },
+  "blocks": {
+    "elevatorRange": 15,
+    "scarecrowRadius": {
+      "field_11175": 32,
+      "field_11174": 32,
+      "field_11173": 32
+    }
+  },
+  "special": {
+    "darkCrystalShadowPokemon": true
+  },
+  "legendary": {
+    "enableZygardeCubeOverflow": false
+  },
+  "client": {
+    "usePixelmonShading": false,
+    "useRenderDoc": false,
+    "useVanilla": true,
+    "logModelLoading": false
+  },
+  "economy": {
+    "startingFunds": 0
+  },
+  "breeding": {
+    "blocksPerEggCcyle": 256
+  }
+}

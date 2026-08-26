@@ -5,8 +5,10 @@
 	"MaxCriterionEntries": 2,
 	"FadeOutBackgroundOnAdvancementHover": false,
 	"SaveLastSelectedTab": true,
-	"PinnedTabs": [],
-	"LastSelectedTab": "cobblemon:root",
+	"PinnedTabs": [
+		"cobbleverse:root"
+	],
+	"LastSelectedTab": "mega_showdown:mega_showdown/root",
 	"SpacingBetweenHorizontalTabs": 4,
 	"SpacingBetweenPinnedTabs": 2
 }
