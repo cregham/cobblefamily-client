@@ -40,14 +40,6 @@ config/inventoryprofilesnext/*&*/
 !minecraft/config/xaero/
 !minecraft/config/xaero/**
 
-# Visual packs - not source controlled
-shaderpacks/
-resourcepacks/
-
-# Mod binaries - record separately, don't store jars
-mods/
-*.jar
-
 # Backups
 *.backup
 *.backup-*
