@@ -25,6 +25,18 @@ servers.dat_old
 defaultoptions.journal.json
 config/inventoryprofilesnext/*&*/
 
+# Client settings that must be reproducible
+!config/defaultoptions/options.txt
+!config/defaultoptions/servers.dat
+!config/fancymenu/options.txt
+!config/xaero/
+!config/xaero/**
+!minecraft/config/defaultoptions/options.txt
+!minecraft/config/defaultoptions/servers.dat
+!minecraft/config/fancymenu/options.txt
+!minecraft/config/xaero/
+!minecraft/config/xaero/**
+
 # Visual packs - not source controlled
 shaderpacks/
 resourcepacks/
