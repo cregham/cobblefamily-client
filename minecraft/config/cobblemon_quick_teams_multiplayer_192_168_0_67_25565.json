@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 9,
+  "modVersion": "1.5.5",
+  "autoLoadOnTeamClick": true,
+  "displayTeamsByDefault": true,
+  "showHomePositionInTeamDetails": true,
+  "returnPokemonToHomeSlot": true,
+  "hideNotifications": false,
+  "notificationDurationMs": 3000,
+  "quickTeamsUiScale": 0.75,
+  "teamDetailsPokemonProfileScale": 17.0,
+  "teamDetailsPokemonProfileVerticalOffset": -17.0,
+  "preferLeftDock": false,
+  "teamNames": [
+    "Team 1",
+    "Team 2",
+    "Team 3",
+    "Team 4",
+    "Team 5",
+    "Team 6",
+    "Team 7",
+    "Team 8",
+    "Team 9",
+    "Team 10"
+  ],
+  "teamSaved": [
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "teams": {
+    "1": [
+      "3dd009f4-dd9a-4481-bfdb-bacf76cfda0f",
+      "9cd58323-f2cc-4fba-a574-6202bad74fd9",
+      "3b60b28d-0e82-4ebb-a2a9-ea176d015046",
+      "347a5d6c-6056-4e4e-a350-13896ae83671",
+      "3dbc1d66-24b8-4a96-b4f6-721dac202852",
+      "49a189b7-69cf-4d5d-b3c2-fd4b1ae0723d"
+    ],
+    "2": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "3": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "4": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "5": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "6": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "7": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "8": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "9": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "10": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "homes": {
+    "1": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "2": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "3": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "4": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "5": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "6": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "7": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "8": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "9": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "10": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

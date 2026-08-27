@@ -23,7 +23,7 @@
   "overlayPosition": "bottom_left",
   "hideOverlay": true,
   "blockMidnightControlsInSummary": true,
-  "selectedControllerIndex": 1,
+  "selectedControllerIndex": -1,
   "outOfFocusInput": true,
   "buttonBattleNearest": 0,
   "buttonToggleTargeting": 13,
