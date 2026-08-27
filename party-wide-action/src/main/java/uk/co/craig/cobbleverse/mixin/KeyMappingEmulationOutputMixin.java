@@ -17,6 +17,8 @@ public abstract class KeyMappingEmulationOutputMixin {
 
     @Inject(method = "push", at = @At("HEAD"), cancellable = true, remap = false)
     private void cobbleverse$suppressEmulatedKeysDuringModifier(CallbackInfo callback) {
+        if ("key.sprint".equals(keyMapping.method_1431())) return;
+
         boolean leftStickHeld = controller.input()
                 .map(input -> input.stateNow().isButtonDown(GamepadInputs.LEFT_STICK_BUTTON))
                 .orElse(false);
