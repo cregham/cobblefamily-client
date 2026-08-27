@@ -149,6 +149,7 @@ key_key.cobblemonraiddens.accept:key.keyboard.f6
 key_key.cobblemonraiddens.deny:key.keyboard.f7
 key_key.cobblesafari.open_rotom_phone:key.keyboard.y
 key_key.cobblesafari.objectives_hud_toggle:key.keyboard.o
+key_key.cobbleverse_party_wide_action.toggle:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fightorflight.startbattle:key.keyboard.g
 key_key.fightorflight.moveslot1:key.keyboard.unknown
@@ -179,11 +180,11 @@ key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.mouse.middle
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_keybind.sophisticatedstorage.sort:key.mouse.middle
 key_soundsbegone.config:key.keyboard.unknown
 key_key.toms_storage.open_terminal:key.keyboard.y

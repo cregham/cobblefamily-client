@@ -25,7 +25,7 @@
   ],
   "teamSaved": [
     true,
-    false,
+    true,
     false,
     false,
     false,
@@ -45,12 +45,12 @@
       "49a189b7-69cf-4d5d-b3c2-fd4b1ae0723d"
     ],
     "2": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "3dd009f4-dd9a-4481-bfdb-bacf76cfda0f",
+      "9cd58323-f2cc-4fba-a574-6202bad74fd9",
+      "3b60b28d-0e82-4ebb-a2a9-ea176d015046",
+      "347a5d6c-6056-4e4e-a350-13896ae83671",
+      "74d4d5bc-e18b-45f3-a08b-1eab36b24b51",
+      "49a189b7-69cf-4d5d-b3c2-fd4b1ae0723d"
     ],
     "3": [
       null,
@@ -131,7 +131,10 @@
       null,
       null,
       null,
-      null,
+      {
+        "box": 1,
+        "slot": 7
+      },
       null
     ],
     "3": [
