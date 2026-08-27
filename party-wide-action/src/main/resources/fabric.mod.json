@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "cobbleverse_party_wide_action",
+  "version": "${version}",
+  "name": "Cobbleverse Party-Wide Action",
+  "description": "Adds a Controlify radial action to throw or recall the whole Cobblemon party.",
+  "environment": "client",
+  "mixins": ["cobbleverse_party_wide_action.mixins.json"],
+  "entrypoints": {
+    "client": ["uk.co.craig.cobbleverse.PartyWideActionClient"],
+    "controlify": ["uk.co.craig.cobbleverse.PartyWideActionClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "fabric-api": "*",
+    "minecraft": "1.21.1",
+    "java": ">=21",
+    "controlify": ">=2.5.2",
+    "cobblemon": "*"
+  }
+}

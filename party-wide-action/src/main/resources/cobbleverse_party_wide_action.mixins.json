@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "uk.co.craig.cobbleverse.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["KeyMappingEmulationOutputMixin"],
+  "injectors": {"defaultRequire": 1}
+}

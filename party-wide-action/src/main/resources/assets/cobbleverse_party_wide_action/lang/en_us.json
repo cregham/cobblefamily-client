@@ -1,0 +1,7 @@
+{
+  "category.cobbleverse_party_wide_action": "Cobbleverse Party",
+  "key.cobbleverse_party_wide_action.toggle": "Throw/Recall All",
+  "key.categories.cobbleverse_party_wide_action": "Cobbleverse Party",
+  "binding.cobbleverse_party_wide_action.toggle": "Throw/Recall All",
+  "binding.cobbleverse_party_wide_action.toggle.description": "Recall all active Pokemon, or throw out the whole party"
+}
