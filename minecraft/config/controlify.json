@@ -1,5 +1,5 @@
 {
-  "current_controller": "326cd75673394c450fcfe815e0ddd3bd-1",
+  "current_controller": "1d72d84f85f346592a006332246d9b90",
   "controllers": {
     "1d72d84f85f346592a006332246d9b90-1": {
       "config": {
@@ -12,9 +12,12 @@
           "button_activation_threshold": 0.5,
           "look_input_curve": "STANDARD",
           "is_l_c_e": false,
-          "deadzones": {},
-          "deadzones_calibrated": false,
-          "delayed_calibration": true,
+          "deadzones": {
+            "controlify:left_stick": 0.08006103,
+            "controlify:right_stick": 0.08
+          },
+          "deadzones_calibrated": true,
+          "delayed_calibration": false,
           "mixed_input": false,
           "keep_default_bindings": false,
           "radial_actions": [
@@ -50,6 +53,18 @@
             },
             "fabric-key-binding-api-v1:key.cobblemon.throwpartypokemon": {
               "button": "controlify:button/dpad_left"
+            },
+            "fabric-key-binding-api-v1:key.fightorflight.startbattle": {
+              "button": "controlify:button/right_stick"
+            },
+            "fabric-key-binding-api-v1:keybind.sophisticatedbackpacks.sort": {
+              "axis": "controlify:axis/right_trigger"
+            },
+            "fabric-key-binding-api-v1:keybind.sophisticatedstorage.sort": {
+              "axis": "controlify:axis/right_trigger"
+            },
+            "fabric-key-binding-api-v1:gui.xaero_enlarge_map": {
+              "button": "controlify:button/east"
             }
           }
         },
@@ -135,6 +150,15 @@
               "button": "controlify:button/east"
             },
             "fabric-key-binding-api-v1:key.fightorflight.startbattle": {
+              "button": "controlify:button/right_stick"
+            },
+            "fabric-key-binding-api-v1:keybind.sophisticatedbackpacks.sort": {
+              "axis": "controlify:axis/right_trigger"
+            },
+            "fabric-key-binding-api-v1:keybind.sophisticatedstorage.sort": {
+              "axis": "controlify:axis/right_trigger"
+            },
+            "fabric-key-binding-api-v1:gui.xaero_enlarge_map": {
               "button": "controlify:button/east"
             }
           }
@@ -179,8 +203,8 @@
           "look_input_curve": "STANDARD",
           "is_l_c_e": false,
           "deadzones": {
-            "controlify:left_stick": 0.080030516,
-            "controlify:right_stick": 0.126875
+            "controlify:left_stick": 0.08006103,
+            "controlify:right_stick": 0.08
           },
           "deadzones_calibrated": true,
           "delayed_calibration": false,
@@ -221,6 +245,15 @@
               "button": "controlify:button/east"
             },
             "fabric-key-binding-api-v1:key.fightorflight.startbattle": {
+              "button": "controlify:button/right_stick"
+            },
+            "fabric-key-binding-api-v1:keybind.sophisticatedbackpacks.sort": {
+              "axis": "controlify:axis/right_trigger"
+            },
+            "fabric-key-binding-api-v1:keybind.sophisticatedstorage.sort": {
+              "axis": "controlify:axis/right_trigger"
+            },
+            "fabric-key-binding-api-v1:gui.xaero_enlarge_map": {
               "button": "controlify:button/east"
             }
           }
@@ -361,7 +394,7 @@
           "is_l_c_e": false,
           "deadzones": {
             "controlify:left_stick": 0.08006103,
-            "controlify:right_stick": 0.16306885
+            "controlify:right_stick": 0.08
           },
           "deadzones_calibrated": true,
           "delayed_calibration": false,
@@ -399,6 +432,18 @@
               "button": "controlify:button/south"
             },
             "fabric-key-binding-api-v1:key.cobblemonraiddens.deny": {
+              "button": "controlify:button/east"
+            },
+            "fabric-key-binding-api-v1:key.fightorflight.startbattle": {
+              "button": "controlify:button/right_stick"
+            },
+            "fabric-key-binding-api-v1:keybind.sophisticatedbackpacks.sort": {
+              "axis": "controlify:axis/right_trigger"
+            },
+            "fabric-key-binding-api-v1:keybind.sophisticatedstorage.sort": {
+              "axis": "controlify:axis/right_trigger"
+            },
+            "fabric-key-binding-api-v1:gui.xaero_enlarge_map": {
               "button": "controlify:button/east"
             }
           }
